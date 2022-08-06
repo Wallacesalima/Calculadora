@@ -1,0 +1,14 @@
+.display {
+    grid-column: span 4;
+    background: rgba( 255, 255, 255, 0.35 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+
+    display: flex;
+    justify-content:center ;
+    padding: 20px;
+    font-size: 1.9em;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
